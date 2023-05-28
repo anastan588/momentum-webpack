@@ -32,3 +32,7 @@ import './assets/favicon.ico';
 import './assets/fonts/Arial-MT.woff';
 import './assets/fonts/owfont-regular.ttf';
 import './assets/fonts/owfont-regular.woff';
+import './assets/fonts/owfont-regular.svg';
+import './assets/fonts/owfont-regular.eot';
+import './assets/fonts/owfont-regular.otf';
+
